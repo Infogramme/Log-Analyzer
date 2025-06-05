@@ -1,4 +1,4 @@
-# Log-Analyzer
+
 # Log Analyzer for Security Events
 This Python-based tool analyzes system log files to detect suspicious behavior such as brute force attacks, repeated failed login attempts, and invalid user access.
 
